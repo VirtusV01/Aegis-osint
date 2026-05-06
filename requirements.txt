@@ -1,0 +1,17 @@
+pyvis
+streamlit
+osint
+pandas>=2.0
+requests>=2.31
+python-whois>=0.8
+tldextract>=5.1
+rapidfuzz>=3.7
+networkx>=3.2
+spacy>=3.7
+loguru>=0.7
+python-dotenv>=1.0
+uvicorn>=0.30
+fastapi>=0.115
+aiohttp
+python-dotenv
+networkx

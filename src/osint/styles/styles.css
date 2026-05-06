@@ -1,0 +1,112 @@
+/* -----------------------------------------------------------
+   GLOBAL LAYOUT
+------------------------------------------------------------ */
+
+body, .stApp {
+    background-color: #f7f9fc !important;
+    color: #1a1a1a !important;
+    font-family: "Inter", sans-serif !important;
+}
+
+/* Hide Streamlit app header + footer */
+header { visibility: hidden !important; }
+footer { visibility: hidden !important; }
+.stApp { margin-top: -60px !important; }
+
+/* -----------------------------------------------------------
+   TITLES
+------------------------------------------------------------ */
+
+h1, h2, h3, h4 {
+    color: #1a1a1a !important;
+}
+
+/* -----------------------------------------------------------
+   METRIC CARDS
+------------------------------------------------------------ */
+
+.metric-card {
+    padding: 16px;
+    border-radius: 12px;
+    background: #ffffff !important;
+    border: 1px solid #e5e8ec !important;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.05) !important;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.metric-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #4c566a !important;
+}
+
+.metric-value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1d4ed8 !important;
+}
+
+/* -----------------------------------------------------------
+   TOP NAVIGATION TABS (Nessus style)
+------------------------------------------------------------ */
+
+.stTabs [role="tablist"] {
+    border-bottom: 2px solid #d7dbe0 !important;
+    margin-bottom: 10px !important;
+}
+
+.stTabs [role="tab"] {
+    padding: 12px 18px !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    color: #333 !important;
+    background: #eef1f5 !important;
+    border-radius: 6px 6px 0 0 !important;
+}
+
+.stTabs [aria-selected="true"] {
+    background: #ffffff !important;
+    color: #1d4ed8 !important;
+    border-bottom: 3px solid #1d4ed8 !important;
+}
+
+/* -----------------------------------------------------------
+   BUTTONS
+------------------------------------------------------------ */
+
+.stButton > button {
+    background-color: #1d4ed8 !important;
+    color: #ffffff !important;
+    padding: 10px 20px !important;
+    border-radius: 8px !important;
+    border: none !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+}
+
+.stButton > button:hover {
+    background-color: #153ea8 !important;
+}
+
+/* -----------------------------------------------------------
+   INPUTS
+------------------------------------------------------------ */
+
+input, textarea, select, .stTextInput > div > div > input {
+    background: #ffffff !important;
+    border: 1px solid #d7dbe0 !important;
+    border-radius: 8px !important;
+    padding: 10px !important;
+}
+
+/* -----------------------------------------------------------
+   TABLE / DATAFRAME
+------------------------------------------------------------ */
+
+.stDataFrame {
+    background: white !important;
+    border-radius: 8px !important;
+    border: 1px solid #e1e4e8 !important;
+    padding: 6px !important;
+}

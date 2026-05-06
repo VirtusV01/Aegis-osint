@@ -1,0 +1,50 @@
+{"record_id": "rec_00000", "type": "ip", "value": "192.168.1.1", "provenance": "sfp_shodan", "last_seen": "2026-04-10T22:49:11.975965+00:00", "meta": {"region": "US"}}
+{"record_id": "rec_00001", "type": "ip", "value": "10.0.0.5", "provenance": "sfp_shodan", "last_seen": "2026-04-06T20:25:11.975992+00:00", "meta": {"region": "EU"}}
+{"record_id": "rec_00002", "type": "ip", "value": "45.33.32.156", "provenance": "sfp_shodan", "last_seen": "2026-04-27T15:37:11.976001+00:00", "meta": {"region": "LATAM"}}
+{"record_id": "rec_00003", "type": "ip", "value": "104.21.1.1", "provenance": "sfp_shodan", "last_seen": "2026-05-02T10:49:11.976007+00:00", "meta": {"region": "LATAM"}}
+{"record_id": "rec_00004", "type": "ip", "value": "185.220.101.5", "provenance": "sfp_shodan", "last_seen": "2026-03-31T20:25:11.976012+00:00", "meta": {"region": "US"}}
+{"record_id": "rec_00005", "type": "ip", "value": "198.51.100.3", "provenance": "sfp_shodan", "last_seen": "2026-04-12T22:49:11.976017+00:00", "meta": {"region": "US"}}
+{"record_id": "rec_00006", "type": "ip", "value": "192.168.1.1", "provenance": "correlate", "last_seen": "2026-04-29T22:49:11.976023+00:00", "meta": {}}
+{"record_id": "rec_00007", "type": "ip", "value": "10.0.0.5", "provenance": "correlate", "last_seen": "2026-04-19T13:13:11.976029+00:00", "meta": {}}
+{"record_id": "rec_00008", "type": "ip", "value": "45.33.32.156", "provenance": "correlate", "last_seen": "2026-04-03T18:01:11.976033+00:00", "meta": {}}
+{"record_id": "rec_00009", "type": "ip", "value": "104.21.1.1", "provenance": "correlate", "last_seen": "2026-04-30T01:13:11.976037+00:00", "meta": {}}
+{"record_id": "rec_00010", "type": "ip", "value": "203.0.113.7", "provenance": "records_synth", "last_seen": "2026-04-10T15:37:11.976042+00:00", "meta": {}}
+{"record_id": "rec_00011", "type": "ip", "value": "8.8.4.4", "provenance": "records_synth", "last_seen": "2026-03-05T13:13:11.976046+00:00", "meta": {}}
+{"record_id": "rec_00012", "type": "ip", "value": "1.1.1.1", "provenance": "records_synth", "last_seen": "2026-03-13T22:49:11.976050+00:00", "meta": {}}
+{"record_id": "rec_00013", "type": "domain", "value": "example.com", "provenance": "whois_synth", "last_seen": "2026-04-25T13:13:11.976055+00:00", "meta": {}}
+{"record_id": "rec_00014", "type": "domain", "value": "cyberwatch.io", "provenance": "whois_synth", "last_seen": "2026-04-07T01:13:11.976059+00:00", "meta": {}}
+{"record_id": "rec_00015", "type": "domain", "value": "securedata.net", "provenance": "whois_synth", "last_seen": "2026-03-27T01:13:11.976063+00:00", "meta": {}}
+{"record_id": "rec_00016", "type": "domain", "value": "darktrace.ai", "provenance": "whois_synth", "last_seen": "2026-05-06T06:01:11.976067+00:00", "meta": {}}
+{"record_id": "rec_00017", "type": "domain", "value": "malicious-host.ru", "provenance": "whois_synth", "last_seen": "2026-03-27T06:01:11.976076+00:00", "meta": {}}
+{"record_id": "rec_00018", "type": "domain", "value": "phishing-site.tk", "provenance": "whois_synth", "last_seen": "2026-04-01T15:37:11.976082+00:00", "meta": {}}
+{"record_id": "rec_00019", "type": "domain", "value": "threat-intel.org", "provenance": "whois_synth", "last_seen": "2026-04-19T13:13:11.976095+00:00", "meta": {}}
+{"record_id": "rec_00020", "type": "domain", "value": "example.com", "provenance": "sfp_shodan", "last_seen": "2026-04-25T08:25:11.976102+00:00", "meta": {}}
+{"record_id": "rec_00021", "type": "domain", "value": "cyberwatch.io", "provenance": "sfp_shodan", "last_seen": "2026-03-24T06:01:11.976108+00:00", "meta": {}}
+{"record_id": "rec_00022", "type": "domain", "value": "securedata.net", "provenance": "sfp_shodan", "last_seen": "2026-04-18T01:13:11.976114+00:00", "meta": {}}
+{"record_id": "rec_00023", "type": "domain", "value": "darktrace.ai", "provenance": "sfp_shodan", "last_seen": "2026-04-27T20:25:11.976127+00:00", "meta": {}}
+{"record_id": "rec_00024", "type": "domain", "value": "apt-c2.xyz", "provenance": "records_synth", "last_seen": "2026-03-31T18:01:11.976134+00:00", "meta": {}}
+{"record_id": "rec_00025", "type": "domain", "value": "legitimate-corp.com", "provenance": "records_synth", "last_seen": "2026-02-14T18:01:11.976141+00:00", "meta": {}}
+{"record_id": "rec_00026", "type": "domain", "value": "dark-forum.cc", "provenance": "records_synth", "last_seen": "2026-03-01T08:25:11.976147+00:00", "meta": {}}
+{"record_id": "rec_00027", "type": "email", "value": "alice@cyberwatch.io", "provenance": "records_synth", "last_seen": "2026-03-27T03:37:11.976155+00:00", "meta": {}}
+{"record_id": "rec_00028", "type": "email", "value": "info@securedata.net", "provenance": "records_synth", "last_seen": "2026-03-31T01:13:11.976162+00:00", "meta": {}}
+{"record_id": "rec_00029", "type": "email", "value": "support@darktrace.ai", "provenance": "records_synth", "last_seen": "2026-04-09T18:01:11.976169+00:00", "meta": {}}
+{"record_id": "rec_00030", "type": "email", "value": "admin@example.com", "provenance": "records_synth", "last_seen": "2026-03-18T20:25:11.976175+00:00", "meta": {}}
+{"record_id": "rec_00031", "type": "email", "value": "root@malicious-host.ru", "provenance": "records_synth", "last_seen": "2026-04-17T15:37:11.976181+00:00", "meta": {}}
+{"record_id": "rec_00032", "type": "email", "value": "admin@apt-c2.xyz", "provenance": "records_synth", "last_seen": "2026-04-08T22:49:11.976186+00:00", "meta": {}}
+{"record_id": "rec_00033", "type": "email", "value": "alice@cyberwatch.io", "provenance": "correlate", "last_seen": "2026-03-16T22:49:11.976193+00:00", "meta": {}}
+{"record_id": "rec_00034", "type": "email", "value": "info@securedata.net", "provenance": "correlate", "last_seen": "2026-03-28T13:13:11.976200+00:00", "meta": {}}
+{"record_id": "rec_00035", "type": "email", "value": "support@darktrace.ai", "provenance": "correlate", "last_seen": "2026-03-15T03:37:11.976208+00:00", "meta": {}}
+{"record_id": "rec_00036", "type": "email", "value": "admin@example.com", "provenance": "correlate", "last_seen": "2026-03-30T18:01:11.976214+00:00", "meta": {}}
+{"record_id": "rec_00037", "type": "person", "value": "Alice Johnson", "provenance": "whois_synth", "last_seen": "2026-03-15T06:01:11.976221+00:00", "meta": {}}
+{"record_id": "rec_00038", "type": "person", "value": "Robert Mills", "provenance": "whois_synth", "last_seen": "2026-04-23T20:25:11.976227+00:00", "meta": {}}
+{"record_id": "rec_00039", "type": "person", "value": "Samantha Lee", "provenance": "whois_synth", "last_seen": "2026-04-12T20:25:11.976233+00:00", "meta": {}}
+{"record_id": "rec_00040", "type": "person", "value": "David Carter", "provenance": "whois_synth", "last_seen": "2026-04-09T03:37:11.976238+00:00", "meta": {}}
+{"record_id": "rec_00041", "type": "person", "value": "Ivan Petrov", "provenance": "correlate", "last_seen": "2026-04-10T22:49:11.976245+00:00", "meta": {}}
+{"record_id": "rec_00042", "type": "person", "value": "Zhang Wei", "provenance": "correlate", "last_seen": "2026-03-31T06:01:11.976254+00:00", "meta": {}}
+{"record_id": "rec_00043", "type": "person", "value": "Fatima Al-Hassan", "provenance": "correlate", "last_seen": "2026-04-09T10:49:11.976260+00:00", "meta": {}}
+{"record_id": "rec_00044", "type": "org", "value": "ThreatCorp LLC", "provenance": "whois_synth", "last_seen": "2026-04-24T01:13:11.976267+00:00", "meta": {}}
+{"record_id": "rec_00045", "type": "org", "value": "CyberWatch Solutions", "provenance": "whois_synth", "last_seen": "2026-04-07T22:49:11.976274+00:00", "meta": {}}
+{"record_id": "rec_00046", "type": "org", "value": "APT Group 29", "provenance": "whois_synth", "last_seen": "2026-04-20T03:37:11.976279+00:00", "meta": {}}
+{"record_id": "rec_00047", "type": "org", "value": "Secure Analytics Inc", "provenance": "records_synth", "last_seen": "2026-04-22T06:01:11.976286+00:00", "meta": {}}
+{"record_id": "rec_00048", "type": "org", "value": "Dark Net Collective", "provenance": "records_synth", "last_seen": "2026-04-26T08:25:11.976293+00:00", "meta": {}}
+{"record_id": "rec_00049", "type": "org", "value": "Global Threat Intel", "provenance": "records_synth", "last_seen": "2026-04-24T20:25:11.976299+00:00", "meta": {}}

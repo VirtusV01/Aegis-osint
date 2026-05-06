@@ -1,0 +1,24 @@
+{"type": "domain", "value": "example.com", "provenance": "whois"}
+{"type": "domain", "value": "darktrace.ai", "provenance": "whois"}
+{"type": "domain", "value": "example.com", "provenance": "whois"}
+{"type": "domain", "value": "cyberwatch.io", "provenance": "web"}
+{"type": "domain", "value": "darktrace.ai", "provenance": "whois"}
+{"type": "domain", "value": "example.com", "provenance": "whois"}
+{"type": "domain", "value": "example.com", "provenance": "whois"}
+{"type": "domain", "value": "securedata.net", "provenance": "social"}
+{"type": "email", "value": "info@securedata.net", "provenance": "social"}
+{"type": "email", "value": "info@securedata.net", "provenance": "social"}
+{"type": "email", "value": "support@darktrace.ai", "provenance": "social"}
+{"type": "email", "value": "info@securedata.net", "provenance": "social"}
+{"type": "email", "value": "admin@example.com", "provenance": "whois"}
+{"type": "email", "value": "support@darktrace.ai", "provenance": "social"}
+{"type": "email", "value": "alice@cyberwatch.io", "provenance": "whois"}
+{"type": "email", "value": "info@securedata.net", "provenance": "social"}
+{"type": "person", "value": "Alice Johnson", "provenance": "whois"}
+{"type": "person", "value": "Robert Mills", "provenance": "web"}
+{"type": "person", "value": "Alice Johnson", "provenance": "whois"}
+{"type": "person", "value": "Robert Mills", "provenance": "web"}
+{"type": "person", "value": "Samantha Lee", "provenance": "whois"}
+{"type": "person", "value": "David Carter", "provenance": "social"}
+{"type": "person", "value": "Samantha Lee", "provenance": "whois"}
+{"type": "person", "value": "David Carter", "provenance": "social"}

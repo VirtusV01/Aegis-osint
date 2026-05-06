@@ -1,0 +1,2 @@
+shodan:
+  api_key: "${SHODAN_API_KEY}"
