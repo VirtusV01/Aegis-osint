@@ -1,4 +1,4 @@
-# aegis-osint
+# Aegis-osint
 
 A research-grade, open-source OSINT investigation framework with temporal credibility modelling, noise-resilient entity correlation, and a professional analyst dashboard. Addresses the core limitations of existing tools such as Maltego and SpiderFoot — static credibility scoring, no temporal reasoning, and poor robustness under noisy data conditions.
 
